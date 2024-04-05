@@ -1,0 +1,46 @@
+html,
+
+body {
+
+  margin:0px;
+  height: 100%;
+}
+.bg_heart {
+  position: static;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+  background-image: url("https://w0.peakpx.com/wallpaper/678/107/HD-wallpaper-cute-animation-couple-goals-couple-kiss-couple-love-cute-couple-kiss-kissing-love-love-2019-make-love.jpg");
+  background-size: 100vh 100vh;
+  background-size: cover;
+  z-index: 2;
+  animation: Sravan 55s infinite;
+}
+
+@keyframes Sravan {
+10% {
+    background-image: url("https://w0.peakpx.com/wallpaper/834/991/HD-wallpaper-anime-boys-anime-girls-anime-vertical-couple-hand-on-neck.jpg");
+  }
+  25% {
+    background-image: url("https://w0.peakpx.com/wallpaper/448/324/HD-wallpaper-anime-girls-genshin-impact-zhongli-genshin-impact-hu-tao-genshin-impact-couple.jpg");
+  }
+  50% {
+    background-image: url("https://w0.peakpx.com/wallpaper/252/341/HD-wallpaper-devine-touch-beautiful-romance-couple-anime-couple-kiss-manwha-couple-kiss-anime.jpg");
+  }
+  75% {
+     background-image: url("https://w0.peakpx.com/wallpaper/978/657/HD-wallpaper-cute-anime-couple-for-mobile.jpg");
+  }
+}
+
+.container {
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 100%;
+  width: 100%;
+  background-:centre;
+  color: black;
+  font-family: cursive;
+}
